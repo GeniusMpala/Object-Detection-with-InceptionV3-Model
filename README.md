@@ -1,0 +1,2 @@
+-This is an object detection model with inception v3 model deployed on streamlit.
+-use the requirments.txt to get all the necessary pakages
